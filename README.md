@@ -9,7 +9,7 @@
  <img align="right" alt="GIF" src="./images/code.gif" width="430" height="100%" />
 
 
--   <a href="https://juejin.cn/user/1214304985296439/posts"><code><img height="20" width="50" src="./images/juejin.png"></code></a>：云计算IE和数通IP的小学弟，仍在跟进学习AI，整理了 30 篇基础类思维导图。
+-   <code><img height="20" width="50" src="./images/juejin.png"></code></a>：云计算IE和数通IP的小学弟，仍在跟进学习AI，整理了 30 篇基础类思维导图。
 
 ### **技术栈:**
 
