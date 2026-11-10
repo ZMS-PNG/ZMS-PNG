@@ -38,8 +38,8 @@
 <rect x="109" y="316" width="12" height="12" fill="#34244b" />
 <rect x="109" y="333" width="12" height="12" fill="#34244b" />
 <rect x="109" y="350" width="12" height="12" fill="#34244b" />
-<rect x="126" y="248" width="12" height="12" fill="#744278" />
-<rect x="126" y="265" width="12" height="12" fill="#34244b" />
+<rect x="126" y="248" width="12" height="12" fill="#34244b" />
+<rect x="126" y="265" width="12" height="12" fill="#744278" />
 <rect x="126" y="282" width="12" height="12" fill="#744278" />
 <rect x="126" y="299" width="12" height="12" fill="#34244b" />
 <rect x="126" y="316" width="12" height="12" fill="#34244b" />
@@ -97,8 +97,8 @@
 <rect x="245" y="333" width="12" height="12" fill="#34244b" />
 <rect x="245" y="350" width="12" height="12" fill="#34244b" />
 <rect x="262" y="248" width="12" height="12" fill="#34244b" />
-<rect x="262" y="265" width="12" height="12" fill="#744278" />
-<rect x="262" y="282" width="12" height="12" fill="#34244b" />
+<rect x="262" y="265" width="12" height="12" fill="#34244b" />
+<rect x="262" y="282" width="12" height="12" fill="#744278" />
 <rect x="262" y="299" width="12" height="12" fill="#34244b" />
 <rect x="262" y="316" width="12" height="12" fill="#34244b" />
 <rect x="262" y="333" width="12" height="12" fill="#34244b" />
@@ -125,8 +125,8 @@
 <rect x="313" y="316" width="12" height="12" fill="#34244b" />
 <rect x="313" y="333" width="12" height="12" fill="#34244b" />
 <rect x="313" y="350" width="12" height="12" fill="#34244b" />
-<rect x="330" y="248" width="12" height="12" fill="#744278" />
-<rect x="330" y="265" width="12" height="12" fill="#744278" />
+<rect x="330" y="248" width="12" height="12" fill="#34244b" />
+<rect x="330" y="265" width="12" height="12" fill="#aa548e" />
 <rect x="330" y="282" width="12" height="12" fill="#34244b" />
 <rect x="330" y="299" width="12" height="12" fill="#34244b" />
 <rect x="330" y="316" width="12" height="12" fill="#34244b" />
@@ -169,7 +169,7 @@
 <rect x="415" y="333" width="12" height="12" fill="#34244b" />
 <rect x="415" y="350" width="12" height="12" fill="#34244b" />
 <rect x="432" y="248" width="12" height="12" fill="#34244b" />
-<rect x="432" y="265" width="12" height="12" fill="#744278" />
+<rect x="432" y="265" width="12" height="12" fill="#34244b" />
 <rect x="432" y="282" width="12" height="12" fill="#ff86b9" />
 <rect x="432" y="299" width="12" height="12" fill="#34244b" />
 <rect x="432" y="316" width="12" height="12" fill="#34244b" />
@@ -250,8 +250,8 @@
 <rect x="602" y="350" width="12" height="12" fill="#34244b" />
 <rect x="619" y="248" width="12" height="12" fill="#744278" />
 <rect x="619" y="265" width="12" height="12" fill="#ff86b9" />
-<rect x="619" y="282" width="12" height="12" fill="#744278" />
-<rect x="619" y="299" width="12" height="12" fill="#34244b" />
+<rect x="619" y="282" width="12" height="12" fill="#34244b" />
+<rect x="619" y="299" width="12" height="12" fill="#744278" />
 <rect x="619" y="316" width="12" height="12" fill="#34244b" />
 <rect x="619" y="333" width="12" height="12" fill="#ff86b9" />
 <rect x="619" y="350" width="12" height="12" fill="#744278" />
