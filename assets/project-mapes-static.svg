@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='utf-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" width="408" height="290" viewBox="0 0 408 290" role="img" aria-labelledby="title">
+<title id="title">MAPES。mock 评测原型。角色的示意消息沿路径进入六维报告。</title>
+<style>text{font-family:"Segoe UI","Microsoft YaHei","Noto Sans CJK SC",sans-serif}</style>
+<path d="M10 1H398V9H407V280H399V289H10V281H1V10H10Z" fill="#e1f3e9" stroke="#79aa97" stroke-width="2" />
+<text x="26" y="41" font-size="27" fill="#254c48" font-weight="700" text-anchor="start">MAPES</text>
+<text x="380" y="40" font-size="16" fill="#326a59" font-weight="400" text-anchor="end">mock 原型</text>
+<rect x="24" y="60" width="360" height="124" fill="#183d43" />
+<path d="M112 127H187V110H259" fill="none" stroke="#68b6ad" stroke-width="3" stroke-dasharray="5 6" />
+<rect x="58" y="93" width="48" height="43" fill="#f3ca84" />
+<rect x="67" y="105" width="7" height="9" fill="#31484d" />
+<rect x="89" y="105" width="7" height="9" fill="#31484d" />
+<path d="M75 123H90" stroke="#b26e66" stroke-width="3" />
+<rect x="50" y="140" width="64" height="8" fill="#578f88" />
+<path d="M122 74H190V98H149L139 108V98H122Z" fill="#b4dcd3" />
+<rect x="136" y="84" width="5" height="5" fill="#517c77" />
+<rect x="150" y="84" width="5" height="5" fill="#517c77" />
+<rect x="164" y="84" width="5" height="5" fill="#517c77" />
+<g><rect x="169" y="122" width="8" height="8" fill="#ffe28c" /></g>
+<rect x="272" y="78" width="75" height="85" fill="#e2f2e8" />
+<rect x="282" y="88" width="42" height="5" fill="#386b67" />
+<text x="26" y="214" font-size="22" fill="#254c48" font-weight="600" text-anchor="start">多 Agent 角色表现评测</text>
+<text x="26" y="242" font-size="18" fill="#41685f" font-weight="400" text-anchor="start">CLI、模拟评审与六维报告</text>
+<rect x="26" y="263" width="7" height="7" fill="#448974" />
+<text x="42" y="271" font-size="16" fill="#367460" font-weight="400" text-anchor="start">Python</text>
+<rect x="282" y="103" width="4" height="4" fill="#72a796" />
+<rect x="293" y="103" width="42" height="3" fill="#9ec5b5" />
+<rect x="282" y="111" width="4" height="4" fill="#72a796" />
+<rect x="293" y="111" width="42" height="3" fill="#9ec5b5" />
+<rect x="282" y="119" width="4" height="4" fill="#72a796" />
+<rect x="293" y="119" width="42" height="3" fill="#9ec5b5" />
+<rect x="282" y="127" width="4" height="4" fill="#72a796" />
+<rect x="293" y="127" width="42" height="3" fill="#9ec5b5" />
+<rect x="282" y="135" width="4" height="4" fill="#72a796" />
+<rect x="293" y="135" width="42" height="3" fill="#9ec5b5" />
+<rect x="282" y="143" width="4" height="4" fill="#72a796" />
+<rect x="293" y="143" width="42" height="3" fill="#9ec5b5" />
+</svg>

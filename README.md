@@ -26,8 +26,8 @@
 ### 正在建造
 
 <p>
-  <a href="https://github.com/ZMS-PNG/Vaultide"><img src="./assets/project-vaultide.svg" width="408" alt="Vaultide · 知洄。基于 OpenMAIC 演进的学习工作台，连接资料、互动学习、练习和 Obsidian 笔记。公开预览版。"></a>
-  <a href="https://github.com/ZMS-PNG/yuns-"><img src="./assets/project-mapes.svg" width="408" alt="MAPES。多 Agent 角色表现评测原型，包含 Python CLI、mock judge 和六维评分报告。"></a>
+  <a href="https://github.com/ZMS-PNG/Vaultide"><picture><source media="(prefers-reduced-motion: reduce)" srcset="./assets/project-vaultide-static.svg"><img src="./assets/project-vaultide.svg" width="408" alt="Vaultide · 知洄。书页、提问与笔记代表基于 OpenMAIC 演进的学习工作台。公开预览版。"></picture></a>
+  <a href="https://github.com/ZMS-PNG/yuns-"><picture><source media="(prefers-reduced-motion: reduce)" srcset="./assets/project-mapes-static.svg"><img src="./assets/project-mapes.svg" width="408" alt="MAPES。角色消息沿示意路径进入六维报告，代表包含 Python CLI 和 mock judge 的评测原型。"></picture></a>
 </p>
 
 Vaultide · 知洄已有可查看的公开版本。[打开预览](https://github.com/ZMS-PNG/Vaultide/releases/tag/v0.1.0-public-preview) · [上游 OpenMAIC](https://github.com/THU-MAIC/OpenMAIC)
@@ -37,6 +37,8 @@ MAPES 从 CLI、模拟评审与六维评分开始探索角色评测。[查看原
 ### 工作台上的支线
 
 <picture>
+  <source media="(prefers-reduced-motion: reduce) and (max-width: 640px)" srcset="./assets/practice-mobile-static.svg">
+  <source media="(prefers-reduced-motion: reduce)" srcset="./assets/practice-static.svg">
   <source media="(max-width: 640px)" srcset="./assets/practice-mobile.svg">
-  <img src="./assets/practice.svg" alt="近期实践。教学训练把课程、练习和评价串起来。农业多智能体关注任务交接和人员确认。创作工具涉及脚本、分镜与素材。视觉原型探索人体关键点和跌倒识别。">
+  <img src="./assets/practice.svg" alt="近期实践地图。书本对应教学训练，植物对应农业多智能体，场记板对应创作工具，人体关键点对应跌倒识别原型。小橘猫在探索小路旁探头。">
 </picture>

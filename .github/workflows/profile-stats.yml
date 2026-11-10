@@ -29,6 +29,8 @@ jobs:
         run: |
           git add assets/github-stats.json assets/github-stats.svg assets/github-stats-mobile.svg
           git add assets/project-vaultide.svg assets/project-mapes.svg assets/practice.svg assets/practice-mobile.svg
+          git add assets/project-vaultide-static.svg assets/project-mapes-static.svg
+          git add assets/practice-static.svg assets/practice-mobile-static.svg
           if git diff --cached --quiet; then
             exit 0
           fi
