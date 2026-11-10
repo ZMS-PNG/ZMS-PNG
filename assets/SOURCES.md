@@ -7,3 +7,7 @@ Customized for ZMS-PNG with the dusk palette, cat character, profile title, and 
 `hero.svg` and `divider.svg` contain the animations. The corresponding `-static.svg` files preserve the artwork for visitors who prefer reduced motion.
 
 The original copyright and full license are retained in `LICENSE-pixel-profile.txt` and in each SVG.
+
+The activity, project and practice cards were drawn for this profile. Public activity comes from the GitHub GraphQL and REST APIs, with the retrieval time and raw public values in `github-stats.json`.
+
+The activity rank follows the current-year commit formula in [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats/blob/master/src/calculateRank.js). Its MIT License is retained in `LICENSE-github-readme-stats.txt`. The rank combines commits, pull requests, issues, reviews, stars and followers.

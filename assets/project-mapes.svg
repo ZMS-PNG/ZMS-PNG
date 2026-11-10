@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="408" height="198" viewBox="0 0 408 198" role="img" aria-labelledby="title">
+<title id="title">MAPES，mock 原型。多 Agent 角色表现评测。CLI · 模拟评审 · 六维报告。</title>
+<style>text{font-family:"Segoe UI","Microsoft YaHei","Noto Sans CJK SC",sans-serif}</style>
+<path d="M10 1H398V9H407V188H399V197H10V189H1V10H10Z" fill="#1c1230" stroke="#594079" stroke-width="2"/>
+<rect x="10" y="10" width="388" height="32" fill="#281b43" />
+<rect x="24" y="23" width="6" height="6" fill="#ff86b9" />
+<rect x="38" y="23" width="6" height="6" fill="#ffe28c" />
+<rect x="52" y="23" width="6" height="6" fill="#7ae7ff" />
+<text x="383" y="32" font-size="16" fill="#a4f0c5" font-weight="400" text-anchor="end">mock 原型</text>
+<rect x="24" y="61" width="33" height="33" fill="#a4f0c5" />
+<text x="40" y="85" font-size="24" fill="#1c1230" font-weight="700" text-anchor="middle">&gt;</text>
+<text x="72" y="86" font-size="27" fill="#fff1d2" font-weight="600" text-anchor="start">MAPES</text>
+<text x="24" y="122" font-size="19" fill="#c4aedf" font-weight="400" text-anchor="start">多 Agent 角色表现评测</text>
+<text x="24" y="149" font-size="19" fill="#c4aedf" font-weight="400" text-anchor="start">CLI · 模拟评审 · 六维报告</text>
+<rect x="24" y="170" width="7" height="7" fill="#a4f0c5" />
+<text x="40" y="178" font-size="16" fill="#a4f0c5" font-weight="400" text-anchor="start">Python</text>
+</svg>

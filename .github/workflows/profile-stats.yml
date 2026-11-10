@@ -1,0 +1,36 @@
+name: Refresh profile statistics
+
+on:
+  schedule:
+    - cron: '17 7 * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: profile-statistics
+  cancel-in-progress: false
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - name: Check out profile
+        uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7.0.1
+
+      - name: Generate pixel cards from public GitHub data
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: python3 scripts/update-profile.py
+
+      - name: Commit refreshed cards
+        run: |
+          git add assets/github-stats.json assets/github-stats.svg assets/github-stats-mobile.svg
+          git add assets/project-vaultide.svg assets/project-mapes.svg assets/practice.svg assets/practice-mobile.svg
+          if git diff --cached --quiet; then
+            exit 0
+          fi
+          git -c user.name='github-actions[bot]' -c user.email='41898282+github-actions[bot]@users.noreply.github.com' commit -m 'Refresh public profile statistics'
+          git push origin HEAD:main

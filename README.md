@@ -14,23 +14,29 @@
   <img src="./assets/divider.svg" alt="像素流星划过一条细线">
 </picture>
 
-### 两个可以逛逛的项目
+<a href="https://github.com/ZMS-PNG?tab=overview">
+  <picture>
+    <source media="(max-width: 640px)" srcset="./assets/github-stats-mobile.svg">
+    <img src="./assets/github-stats.svg" alt="GitHub 活动档案，展示年度贡献、年度提交、累计公开 PR、GitHub Readme Stats 活跃等级与贡献足迹。每日更新。">
+  </picture>
+</a>
 
-**[Vaultide · 知洄 ↗](https://github.com/ZMS-PNG/Vaultide)**
+贡献和提交按当年统计，PR 按累计统计。评级采用 GitHub Readme Stats 算法。[数据](./assets/github-stats.json) · [评级算法](https://github.com/anuraghazra/github-readme-stats/blob/master/src/calculateRank.js)
 
-一个学习工作台，把来源证据、互动学习、练习和 Obsidian 笔记连起来。基于 [OpenMAIC](https://github.com/THU-MAIC/OpenMAIC) 演进，已有公开预览版。
+### 正在建造
 
-[打开 v0.1.0 公开预览 →](https://github.com/ZMS-PNG/Vaultide/releases/tag/v0.1.0-public-preview)
+<p>
+  <a href="https://github.com/ZMS-PNG/Vaultide"><img src="./assets/project-vaultide.svg" width="408" alt="Vaultide · 知洄。基于 OpenMAIC 演进的学习工作台，连接资料、互动学习、练习和 Obsidian 笔记。公开预览版。"></a>
+  <a href="https://github.com/ZMS-PNG/yuns-"><img src="./assets/project-mapes.svg" width="408" alt="MAPES。多 Agent 角色表现评测原型，包含 Python CLI、mock judge 和六维评分报告。"></a>
+</p>
 
-**[MAPES ↗](https://github.com/ZMS-PNG/yuns-)**
+Vaultide · 知洄已有可查看的公开版本。[打开预览](https://github.com/ZMS-PNG/Vaultide/releases/tag/v0.1.0-public-preview) · [上游 OpenMAIC](https://github.com/THU-MAIC/OpenMAIC)
 
-一个多 Agent 角色表现评测原型。通过 Python CLI、mock judge 和六维评分，把评测过程整理成报告。
+MAPES 从 CLI、模拟评审与六维评分开始探索角色评测。[查看原型](https://github.com/ZMS-PNG/yuns-)
 
-### 还在折腾些什么
+### 工作台上的支线
 
-- **教学训练** — 把岗位需求、课程、练习和评价串起来。
-- **农业多智能体** — 梳理任务交接和人员确认流程。
-- **创作工具** — 脚本、分镜、素材，以及图片和视频生成的使用流程。
-- **跌倒识别原型** — 从人体关键点和连续动作判断开始做。
-
-边做边学、边学边做...小小进步而已
+<picture>
+  <source media="(max-width: 640px)" srcset="./assets/practice-mobile.svg">
+  <img src="./assets/practice.svg" alt="近期实践。教学训练把课程、练习和评价串起来。农业多智能体关注任务交接和人员确认。创作工具涉及脚本、分镜与素材。视觉原型探索人体关键点和跌倒识别。">
+</picture>

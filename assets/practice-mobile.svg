@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="450" height="260" viewBox="0 0 450 260" role="img" aria-labelledby="title">
+<title id="title">近期实践。教学训练、农业多智能体、创作工具和跌倒识别原型。</title>
+<style>text{font-family:"Segoe UI","Microsoft YaHei","Noto Sans CJK SC",sans-serif}</style>
+<path d="M10 1H440V9H449V250H441V259H10V251H1V10H10Z" fill="#1c1230" stroke="#594079" stroke-width="2"/>
+<rect x="24" y="30" width="24" height="24" fill="#ff86b9" />
+<text x="36" y="48" font-size="19" fill="#1c1230" font-weight="600" text-anchor="middle">▤</text>
+<text x="24" y="84" font-size="22" fill="#fff1d2" font-weight="600" text-anchor="start">教学训练</text>
+<text x="24" y="114" font-size="18" fill="#c4aedf" font-weight="400" text-anchor="start">课程、练习与评价</text>
+<rect x="246" y="30" width="24" height="24" fill="#a4f0c5" />
+<text x="258" y="48" font-size="19" fill="#1c1230" font-weight="600" text-anchor="middle">+</text>
+<text x="246" y="84" font-size="22" fill="#fff1d2" font-weight="600" text-anchor="start">农业 Agent</text>
+<text x="246" y="114" font-size="18" fill="#c4aedf" font-weight="400" text-anchor="start">任务交接与人员确认</text>
+<rect x="24" y="148" width="24" height="24" fill="#ffe28c" />
+<text x="36" y="166" font-size="19" fill="#1c1230" font-weight="600" text-anchor="middle">▸</text>
+<text x="24" y="202" font-size="22" fill="#fff1d2" font-weight="600" text-anchor="start">创作工具</text>
+<text x="24" y="232" font-size="18" fill="#c4aedf" font-weight="400" text-anchor="start">脚本、分镜与素材</text>
+<rect x="246" y="148" width="24" height="24" fill="#7ae7ff" />
+<text x="258" y="166" font-size="19" fill="#1c1230" font-weight="600" text-anchor="middle">◇</text>
+<text x="246" y="202" font-size="22" fill="#fff1d2" font-weight="600" text-anchor="start">视觉原型</text>
+<text x="246" y="232" font-size="18" fill="#c4aedf" font-weight="400" text-anchor="start">关键点与跌倒识别</text>
+</svg>
