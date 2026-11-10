@@ -1,37 +1,55 @@
-<img align="right" src="https://count.getloli.com/get/@:Minori-ty?theme=rule34">
+<p>
+  <picture>
+    <source media="(max-width: 640px)" srcset="./images/profile-header-mobile.svg">
+    <img src="./images/profile-header.svg" alt="ZMS-PNG 的个人工作台，连接学习、构建与知识整理" width="1240">
+  </picture>
+</p>
 
-## 云计算-AI架构学习者—天蝎
+我在做一些和 **AI 学习、知识整理、Agent 协作**有关的工具。
 
-好奇求知、博问探真。见习工作经验一次。喜欢参与一些开源项目的讨论。
+习惯从具体问题开始，读懂已有材料，做出可以使用的版本，再沿实际流程验证和改进。希望每次学习都能留下可以回看、复用和继续探索的记录。
 
-### **社交主页：**
+## 最近在做
 
- <img align="right" alt="GIF" src="./images/code.gif" width="430" height="100%" />
+### Vaultide · 知洄
 
+**开源学习工作台 · Public Preview**
 
--   <code><img height="20" width="50" src="./images/juejin.png"></code></a>：云计算IE和数通IP的小学弟，仍在跟进学习AI，整理了 30 篇基础类思维导图。
+我想把读资料、理解、练习和回到笔记里复习接起来，让下一次学习能从上一次的积累开始。围绕这个想法，Vaultide 将 GitHub 项目、论文、技术文章和 Obsidian 笔记组织为带来源证据的互动学习路径。
 
-### **技术栈:**
+| 环节 | 在 Vaultide 里的实践 |
+| --- | --- |
+| 选材与理解 | 审查外部资料或笔记来源，组织带引用证据的互动课堂 |
+| 练习与复习 | 通过主动练习、阶段查点和复习任务记录学习进度 |
+| 积累与连接 | 经预览与确认后写回 Obsidian，逐步归纳知识关系 |
 
-<a href="https://v3.cn.vuejs.org"><code><img height="20" src="./images/vue.png"></code></a>
-<a href="https://reactjs.org/"><code><img height="20" src="./images/react.svg"></code></a>
-<a href="https://nextjs.org/"><code><img height="20" src="./images/next.png"></code></a>
-<a href="https://www.tslang.cn/index.html"><code><img height="20" src="./images/typescript.png"></code></a>
-<a href="https://webpack.js.org/"><code><img height="20" src="./images/webpack.svg"></code></a>
-<a href="https://cn.vitejs.dev"><code><img height="20" src="./images/vite.png"></code></a>
-<a href="https://sass-lang.com"><code><img height="20" src="./images/sass2.png"></code></a>
-<a href="https://tailwindcss.com"><code><img height="20" src="./images/tailwindcss.png"></code></a>
-<a href="https://go.dev/"><code><img height="20" src="./images/golang.png"></code></a>
-<a href="https://www.docker.com"><code><img height="20" src="./images/docker.png"></code></a>
+基于 OpenMAIC 演进，重点扩展长期学习与知识沉淀工作流。
 
-### 开源项目
+[项目仓库](https://github.com/ZMS-PNG/Vaultide) · [公开预览与演示](https://github.com/ZMS-PNG/Vaultide/releases/tag/v0.1.0-public-preview) · [上游 OpenMAIC](https://github.com/THU-MAIC/OpenMAIC)
 
-<br><br><br>
+### MAPES · 多 Agent 个性化表现评测
 
-### Github 活跃度
+**评测原型 · MVP**
 
-[![](https://activity-graph.herokuapp.com/graph?username=ZMS-PNG&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
-![Minori-ty's github stats](https://github-readme-stats.vercel.app/api?username=ZMS-PNG&show_icons=true&theme=vue)
+我也在尝试把 Agent 在互动场景中的表现评价得更具体。MAPES 从角色一致性、个性表达、场景感知、情感共鸣、多 Agent 协作，以及幻觉与安全控制六个维度组织评分与反馈。
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ZMS-PNG&langs_count=6)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ZMS-PNG&layout=compact&langs_count=6)
+原型包含 Python CLI、mock judge 与评分报告流程。ERNIE Judge 和 PaddleOCR 处于适配器预留阶段。
+
+[项目仓库](https://github.com/ZMS-PNG/yuns-)
+
+## 做项目时常用
+
+| 方向 | 技术与工具 |
+| --- | --- |
+| Web 应用 | TypeScript · React · Next.js |
+| 评测脚本 | Python · CLI · Rubric 评分 |
+| 知识管理 | PostgreSQL · Neon · Obsidian · Markdown |
+| 测试开发 | Vitest · Playwright · Git · GitHub |
+
+## 还在继续探索
+
+AI 编程助手与可复用 Skills、n8n 工作流编排，以及多模态工具在学习中的应用。这里会逐步记录我实际做过、能够展示的尝试。
+
+---
+
+欢迎在相关项目的 Issues 中交流 AI 学习工具、Obsidian 工作流或 Agent 评测的实践。
